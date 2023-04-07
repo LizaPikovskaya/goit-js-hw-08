@@ -42,4 +42,4 @@ gallery.on('show.simplelightbox', function () {
 
 
 
-console.log(galleryItems);
+// console.log(galleryItems);
